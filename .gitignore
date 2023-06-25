@@ -1,5 +1,8 @@
 data/*
 !data/.gitkeep
+!data/Server/servertest.ini
+!data/Server/servertest_SandboxVars.lua
+!data/Server/servertest_spawnregions.lua
 workshop-mods/*
 !workshop-mods/.gitkeep
 .env
